@@ -2,3 +2,8 @@ git add .
 git status
 git commit -m "10:41 commits"
 git push origin master
+---------------------------------------
+git init
+git clone "https://......"
+-----------------------------------
+git remote add origin https://github.com/StrongPosHao/JDReviewAnalyse.git
